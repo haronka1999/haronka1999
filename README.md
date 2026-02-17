@@ -7,8 +7,7 @@ Software Engineer from Romania  with 4+ years of experience in AI and backend de
 - 🐍 Primarily working with Python, FastAPI, LangGraph and AWS
 - 🧠 Passionate about AI/ML, software architecture, and cloud infrastructure
 
-## 📫 Reach Me
+## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aron-horvath99)
-<br>
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aron.horvath1999@gmail.com)
+- [LinkedIn](www.linkedin.com/in/aron-horvath99)
+- [aron.horvath1999@gmail.com](aron.horvath1999@gmail.com)
