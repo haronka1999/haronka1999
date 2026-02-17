@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**haronka1999/haronka1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Aron 👋
 
-Here are some ideas to get you started:
+Software Engineer from Romania  with 4+ years of experience in AI and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Building GenAI applications on the Cloud
+- 🐍 Primarily working with Python, FastAPI, LangGraph and AWS
+- 🧠 Passionate about AI/ML, software architecture, and cloud infrastructure
+
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aron-horvath99)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aron.horvath1999@gmail.com)
